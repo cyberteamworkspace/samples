@@ -69,5 +69,3 @@ Since these requests are made from form of the website, frontend developer's wor
  else
       echo "REQUEST ERROR";
 ?>
-                                
-             
